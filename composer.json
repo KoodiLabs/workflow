@@ -1,0 +1,20 @@
+{
+    "name": "koodilabs/workflow",
+    "description": "Koodilabs workflow generator",
+    "type": "Laravel packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koodi",
+            "email": "hello@koodi.ph"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "Koodilabs\\Workflow\\": "src"
+        }
+    }
+}
